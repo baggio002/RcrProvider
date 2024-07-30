@@ -1,4 +1,4 @@
-const RCR_SOURCE_SHEET_ID = '1vNFkgSc3DEDN3hz48M4o9UKoYGO-OCctKpwLSEuw3fA';
+const RCR_SOURCE_SHEET_ID = '<rcr id>';
 
 const RCR_SHEETS_NAME_MAP = new Map();
 
